@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : reflect.txt
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section     : SJJ
+ Date        : March 17th, 2019 - Assignment 2 - Milestone 2
+ ============================================================================
+*/
+
+/*
+ ============================================================================
+ Description : Reflection on Milestone 2 of Assignment 2
+ ============================================================================
+*/
+
+It is no surprise to you that I have above average programming skills, so I kind of feel like these reflections are me just rambling on about programming.  It's fine, but it must be obvious to you that I know what I am doing.  That being said, it is not like I am not learning anything.  In fact, this first part of assignment 2 has taught me a lot.
+
+Functions are so important in programming.  If programming languages didn't have functions, a program that has say 1000 lines using functions, could potentially be 10,000 lines if functions didn't exist.  This stresses the importance of function reusability, and portability in separate programs.  Functions also make our programs easier to read by breaking them down into smaller segments of code that serve a specific purpose. There are many advantages to using functions and many different ways we can use functions.  For example, we can have a Boolean function that returns either 1(true) or 0(false), which I have for the yes() function.  Anyway, enough about functions, they are awesome... You can do anything with them.
+
+I was really impressed with the layout of the first two milestones in assignment 2.  It was good that all the functions headers were provided to us. We just have to actually write the code so that they do what they need to.  I think that the 'helper' functions are in a different file because they preform small tasks like error checking, and getting numbers, in range, or verified positive.  They are as the name suggests, helper functions.  In the contacts.c file we have the "Meat and Potatoes" so to speak.  The three functions to get name, address, and phone number information.  And the function that calls all three of those.  I also have a displayContact(...) function becuase I have a feeling I will need it for the next two milestones. Basically, the functions inside contacts.c use the helper functions to do their job better and more efficiently.
+
+It all makes sense to me, there are occasionally small bumps along the road while learning any new language, but a good programmer will figure it out and keep playing until everything is just right!
+ 
